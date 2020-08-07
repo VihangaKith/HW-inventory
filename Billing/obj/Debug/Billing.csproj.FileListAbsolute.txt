@@ -1,0 +1,575 @@
+D:\Education\Software Engineering Project\Billing\Billing\bin\Debug\Billing.exe
+D:\Education\Software Engineering Project\Billing\Billing\bin\Debug\Billing.pdb
+D:\Education\Software Engineering Project\Billing\Billing\obj\Debug\Billing.csprojResolveAssemblyReference.cache
+D:\Education\Software Engineering Project\Billing\Billing\obj\Debug\Billing.rfmAdminDashboard.resources
+D:\Education\Software Engineering Project\Billing\Billing\obj\Debug\Billing.Properties.Resources.resources
+D:\Education\Software Engineering Project\Billing\Billing\obj\Debug\Billing.csproj.GenerateResource.Cache
+D:\Education\Software Engineering Project\Billing\Billing\obj\Debug\Billing.exe
+D:\Education\Software Engineering Project\Billing\Billing\obj\Debug\Billing.pdb
+D:\Education\Software Engineering Project\Billing\Billing\bin\Debug\STK.mdf
+D:\Education\Software Engineering Project\Billing\Billing\bin\Debug\STK_log.ldf
+D:\Education\Software Engineering Project\Billing\Billing\bin\Debug\Billing.exe.config
+D:\Education\Software Engineering Project\Billing\Billing\obj\Debug\Billing.frmUserDashboard.resources
+D:\Education\Software Engineering Project\Billing\Billing\obj\Debug\Billing.UI.frmUsers.resources
+D:\Education\Software Engineering Project\Billing\Billing\obj\Debug\Billing.UI.frmLogin.resources
+D:\Education\Software Engineering Project\Billing\Billing\obj\Debug\Billing.UI.frmCategories.resources
+D:\Education\Software Engineering Project\Billing\Billing\obj\Debug\Billing.UI.frmProducts.resources
+D:\Education\Software Engineering Project\Billing\Billing\obj\Debug\Billing.UI.frmDlr_Cstmr.resources
+D:\Education\Software Engineering Project\Billing\Billing\obj\Debug\Billing.UI.frmPurchaseAndSales.resources
+D:\Education\Software Engineering Project\Billing\Billing\obj\Debug\Billing.UI.frmTransactions.resources
+D:\Education\Software Engineering Project\Billing\Billing\obj\Debug\Billing.UI.frmInventory.resources
+E:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\SE Project_1\SE Project\Billing\Billing\bin\Debug\Billing.exe.config
+E:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\SE Project_1\SE Project\Billing\Billing\obj\Debug\Billing.exe
+E:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\SE Project_1\SE Project\Billing\Billing\obj\Debug\Billing.pdb
+E:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\SE Project_1\SE Project\Billing\Billing\bin\Debug\STK.mdf
+E:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\SE Project_1\SE Project\Billing\Billing\bin\Debug\STK_log.ldf
+E:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\SE Project_1\SE Project\Billing\Billing\bin\Debug\Billing.exe
+E:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\SE Project_1\SE Project\Billing\Billing\bin\Debug\Billing.pdb
+E:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\SE Project_1\SE Project\Billing\Billing\obj\Debug\Billing.csprojResolveAssemblyReference.cache
+E:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\SE Project_1\SE Project\Billing\Billing\obj\Debug\Billing.UI.frmCategories.resources
+E:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\SE Project_1\SE Project\Billing\Billing\obj\Debug\Billing.UI.frmDlr_Cstmr.resources
+E:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\SE Project_1\SE Project\Billing\Billing\obj\Debug\Billing.UI.frmInventory.resources
+E:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\SE Project_1\SE Project\Billing\Billing\obj\Debug\Billing.UI.frmLogin.resources
+E:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\SE Project_1\SE Project\Billing\Billing\obj\Debug\Billing.UI.frmProducts.resources
+E:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\SE Project_1\SE Project\Billing\Billing\obj\Debug\Billing.UI.frmPurchaseAndSales.resources
+E:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\SE Project_1\SE Project\Billing\Billing\obj\Debug\Billing.UI.frmTransactions.resources
+E:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\SE Project_1\SE Project\Billing\Billing\obj\Debug\Billing.frmUserDashboard.resources
+E:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\SE Project_1\SE Project\Billing\Billing\obj\Debug\Billing.UI.frmUsers.resources
+E:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\SE Project_1\SE Project\Billing\Billing\obj\Debug\Billing.rfmAdminDashboard.resources
+E:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\SE Project_1\SE Project\Billing\Billing\obj\Debug\Billing.Properties.Resources.resources
+E:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\SE Project_1\SE Project\Billing\Billing\obj\Debug\Billing.csproj.GenerateResource.Cache
+E:\SE Project\Billing\Billing\obj\Debug\Billing.UI.AboutUs.resources
+E:\SE Project\Billing\Billing\obj\Debug\Billing.UI.frmCategories.resources
+E:\SE Project\Billing\Billing\obj\Debug\Billing.UI.frmDlr_Cstmr.resources
+E:\SE Project\Billing\Billing\obj\Debug\Billing.UI.frmInventory.resources
+E:\SE Project\Billing\Billing\obj\Debug\Billing.UI.frmLogin.resources
+E:\SE Project\Billing\Billing\obj\Debug\Billing.UI.frmProducts.resources
+E:\SE Project\Billing\Billing\obj\Debug\Billing.UI.frmPurchaseAndSales.resources
+E:\SE Project\Billing\Billing\obj\Debug\Billing.UI.frmTransactions.resources
+E:\SE Project\Billing\Billing\obj\Debug\Billing.frmUserDashboard.resources
+E:\SE Project\Billing\Billing\obj\Debug\Billing.UI.frmUsers.resources
+E:\SE Project\Billing\Billing\obj\Debug\Billing.UI.MassageBox.resources
+E:\SE Project\Billing\Billing\obj\Debug\Billing.Properties.Resources.resources
+E:\SE Project\Billing\Billing\obj\Debug\Billing.csproj.GenerateResource.Cache
+E:\SE Project\Billing\Billing\bin\Debug\Billing.exe.config
+E:\SE Project\Billing\Billing\obj\Debug\Billing.UI.rfmAdminDashboard.resources
+E:\SE Project\Billing\Billing\bin\Debug\STK.mdf
+E:\SE Project\Billing\Billing\bin\Debug\STK_log.ldf
+E:\SE Project\Billing\Billing\bin\Debug\Billing.exe
+E:\SE Project\Billing\Billing\bin\Debug\Billing.pdb
+E:\SE Project\Billing\Billing\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\SE Project\Billing\Billing\obj\Debug\Billing.exe
+E:\SE Project\Billing\Billing\obj\Debug\Billing.pdb
+C:\Users\Vihz\Desktop\SE Project\Billing\Billing\bin\Debug\Billing.exe.config
+C:\Users\Vihz\Desktop\SE Project\Billing\Billing\obj\Debug\Billing.exe
+C:\Users\Vihz\Desktop\SE Project\Billing\Billing\obj\Debug\Billing.pdb
+C:\Users\Vihz\Desktop\SE Project\Billing\Billing\bin\Debug\STK.mdf
+C:\Users\Vihz\Desktop\SE Project\Billing\Billing\bin\Debug\STK_log.ldf
+C:\Users\Vihz\Desktop\SE Project\Billing\Billing\bin\Debug\Billing.exe
+C:\Users\Vihz\Desktop\SE Project\Billing\Billing\bin\Debug\Billing.pdb
+C:\Users\Vihz\Desktop\SE Project\Billing\Billing\obj\Debug\Billing.csprojResolveAssemblyReference.cache
+C:\Users\Vihz\Desktop\SE Project\Billing\Billing\obj\Debug\Billing.UI.AboutUs.resources
+C:\Users\Vihz\Desktop\SE Project\Billing\Billing\obj\Debug\Billing.UI.rfmAdminDashboard.resources
+C:\Users\Vihz\Desktop\SE Project\Billing\Billing\obj\Debug\Billing.UI.frmCategories.resources
+C:\Users\Vihz\Desktop\SE Project\Billing\Billing\obj\Debug\Billing.UI.frmDlr_Cstmr.resources
+C:\Users\Vihz\Desktop\SE Project\Billing\Billing\obj\Debug\Billing.UI.frmInventory.resources
+C:\Users\Vihz\Desktop\SE Project\Billing\Billing\obj\Debug\Billing.UI.frmLogin.resources
+C:\Users\Vihz\Desktop\SE Project\Billing\Billing\obj\Debug\Billing.UI.frmProducts.resources
+C:\Users\Vihz\Desktop\SE Project\Billing\Billing\obj\Debug\Billing.UI.frmPurchaseAndSales.resources
+C:\Users\Vihz\Desktop\SE Project\Billing\Billing\obj\Debug\Billing.UI.frmTransactions.resources
+C:\Users\Vihz\Desktop\SE Project\Billing\Billing\obj\Debug\Billing.frmUserDashboard.resources
+C:\Users\Vihz\Desktop\SE Project\Billing\Billing\obj\Debug\Billing.UI.frmUsers.resources
+C:\Users\Vihz\Desktop\SE Project\Billing\Billing\obj\Debug\Billing.UI.MassageBox.resources
+C:\Users\Vihz\Desktop\SE Project\Billing\Billing\obj\Debug\Billing.Properties.Resources.resources
+C:\Users\Vihz\Desktop\SE Project\Billing\Billing\obj\Debug\Billing.csproj.GenerateResource.Cache
+C:\Users\Vihz\Desktop\Project 2.0\2.01\Billing\Billing\bin\Debug\Billing.exe.config
+C:\Users\Vihz\Desktop\Project 2.0\2.01\Billing\Billing\obj\Debug\Billing.exe
+C:\Users\Vihz\Desktop\Project 2.0\2.01\Billing\Billing\obj\Debug\Billing.pdb
+C:\Users\Vihz\Desktop\Project 2.0\2.01\Billing\Billing\bin\Debug\STK.mdf
+C:\Users\Vihz\Desktop\Project 2.0\2.01\Billing\Billing\bin\Debug\STK_log.ldf
+C:\Users\Vihz\Desktop\Project 2.0\2.01\Billing\Billing\bin\Debug\Billing.exe
+C:\Users\Vihz\Desktop\Project 2.0\2.01\Billing\Billing\bin\Debug\Billing.pdb
+C:\Users\Vihz\Desktop\Project 2.0\2.01\Billing\Billing\obj\Debug\Billing.csprojResolveAssemblyReference.cache
+C:\Users\Vihz\Desktop\Project 2.0\2.01\Billing\Billing\obj\Debug\Billing.UI.AboutUs.resources
+C:\Users\Vihz\Desktop\Project 2.0\2.01\Billing\Billing\obj\Debug\Billing.UI.rfmAdminDashboard.resources
+C:\Users\Vihz\Desktop\Project 2.0\2.01\Billing\Billing\obj\Debug\Billing.UI.frmCategories.resources
+C:\Users\Vihz\Desktop\Project 2.0\2.01\Billing\Billing\obj\Debug\Billing.UI.frmDlr_Cstmr.resources
+C:\Users\Vihz\Desktop\Project 2.0\2.01\Billing\Billing\obj\Debug\Billing.UI.frmInventory.resources
+C:\Users\Vihz\Desktop\Project 2.0\2.01\Billing\Billing\obj\Debug\Billing.UI.frmLogin.resources
+C:\Users\Vihz\Desktop\Project 2.0\2.01\Billing\Billing\obj\Debug\Billing.UI.frmProducts.resources
+C:\Users\Vihz\Desktop\Project 2.0\2.01\Billing\Billing\obj\Debug\Billing.UI.frmPurchaseAndSales.resources
+C:\Users\Vihz\Desktop\Project 2.0\2.01\Billing\Billing\obj\Debug\Billing.UI.frmTransactions.resources
+C:\Users\Vihz\Desktop\Project 2.0\2.01\Billing\Billing\obj\Debug\Billing.frmUserDashboard.resources
+C:\Users\Vihz\Desktop\Project 2.0\2.01\Billing\Billing\obj\Debug\Billing.UI.frmUsers.resources
+C:\Users\Vihz\Desktop\Project 2.0\2.01\Billing\Billing\obj\Debug\Billing.UI.MassageBox.resources
+C:\Users\Vihz\Desktop\Project 2.0\2.01\Billing\Billing\obj\Debug\Billing.Properties.Resources.resources
+C:\Users\Vihz\Desktop\Project 2.0\2.01\Billing\Billing\obj\Debug\Billing.csproj.GenerateResource.Cache
+C:\Users\Vihz\Desktop\SE Project 2.0\2.02\Billing\Billing\bin\Debug\Billing.exe.config
+C:\Users\Vihz\Desktop\SE Project 2.0\2.02\Billing\Billing\obj\Debug\Billing.exe
+C:\Users\Vihz\Desktop\SE Project 2.0\2.02\Billing\Billing\obj\Debug\Billing.pdb
+C:\Users\Vihz\Desktop\SE Project 2.0\2.02\Billing\Billing\bin\Debug\STK.mdf
+C:\Users\Vihz\Desktop\SE Project 2.0\2.02\Billing\Billing\bin\Debug\STK_log.ldf
+C:\Users\Vihz\Desktop\SE Project 2.0\2.02\Billing\Billing\bin\Debug\Billing.exe
+C:\Users\Vihz\Desktop\SE Project 2.0\2.02\Billing\Billing\bin\Debug\Billing.pdb
+C:\Users\Vihz\Desktop\SE Project 2.0\2.02\Billing\Billing\obj\Debug\Billing.csprojResolveAssemblyReference.cache
+C:\Users\Vihz\Desktop\SE Project 2.0\2.02\Billing\Billing\obj\Debug\Billing.UI.AboutUs.resources
+C:\Users\Vihz\Desktop\SE Project 2.0\2.02\Billing\Billing\obj\Debug\Billing.UI.rfmAdminDashboard.resources
+C:\Users\Vihz\Desktop\SE Project 2.0\2.02\Billing\Billing\obj\Debug\Billing.UI.frmCategories.resources
+C:\Users\Vihz\Desktop\SE Project 2.0\2.02\Billing\Billing\obj\Debug\Billing.UI.frmDlr_Cstmr.resources
+C:\Users\Vihz\Desktop\SE Project 2.0\2.02\Billing\Billing\obj\Debug\Billing.UI.frmInventory.resources
+C:\Users\Vihz\Desktop\SE Project 2.0\2.02\Billing\Billing\obj\Debug\Billing.UI.frmLogin.resources
+C:\Users\Vihz\Desktop\SE Project 2.0\2.02\Billing\Billing\obj\Debug\Billing.UI.frmProducts.resources
+C:\Users\Vihz\Desktop\SE Project 2.0\2.02\Billing\Billing\obj\Debug\Billing.UI.frmPurchaseAndSales.resources
+C:\Users\Vihz\Desktop\SE Project 2.0\2.02\Billing\Billing\obj\Debug\Billing.UI.frmTransactions.resources
+C:\Users\Vihz\Desktop\SE Project 2.0\2.02\Billing\Billing\obj\Debug\Billing.frmUserDashboard.resources
+C:\Users\Vihz\Desktop\SE Project 2.0\2.02\Billing\Billing\obj\Debug\Billing.UI.frmUsers.resources
+C:\Users\Vihz\Desktop\SE Project 2.0\2.02\Billing\Billing\obj\Debug\Billing.UI.MassageBox.resources
+C:\Users\Vihz\Desktop\SE Project 2.0\2.02\Billing\Billing\obj\Debug\Billing.Properties.Resources.resources
+C:\Users\Vihz\Desktop\SE Project 2.0\2.02\Billing\Billing\obj\Debug\Billing.csproj.GenerateResource.Cache
+C:\Users\Vihz\Desktop\SE Project 2.0\2.02\Billing\Billing\obj\Debug\Billing.UI.frmStKeeperDashboard.resources
+C:\Users\Vihz\Desktop\SE Project 2.0\2.03\Billing\Billing\bin\Debug\Billing.exe.config
+C:\Users\Vihz\Desktop\SE Project 2.0\2.03\Billing\Billing\obj\Debug\Billing.exe
+C:\Users\Vihz\Desktop\SE Project 2.0\2.03\Billing\Billing\obj\Debug\Billing.pdb
+C:\Users\Vihz\Desktop\SE Project 2.0\2.03\Billing\Billing\bin\Debug\STK.mdf
+C:\Users\Vihz\Desktop\SE Project 2.0\2.03\Billing\Billing\bin\Debug\STK_log.ldf
+C:\Users\Vihz\Desktop\SE Project 2.0\2.03\Billing\Billing\bin\Debug\Billing.exe
+C:\Users\Vihz\Desktop\SE Project 2.0\2.03\Billing\Billing\bin\Debug\Billing.pdb
+C:\Users\Vihz\Desktop\SE Project 2.0\2.03\Billing\Billing\obj\Debug\Billing.csprojResolveAssemblyReference.cache
+C:\Users\Vihz\Desktop\SE Project 2.0\2.03\Billing\Billing\obj\Debug\Billing.UI.AboutUs.resources
+C:\Users\Vihz\Desktop\SE Project 2.0\2.03\Billing\Billing\obj\Debug\Billing.UI.rfmAdminDashboard.resources
+C:\Users\Vihz\Desktop\SE Project 2.0\2.03\Billing\Billing\obj\Debug\Billing.UI.frmCategories.resources
+C:\Users\Vihz\Desktop\SE Project 2.0\2.03\Billing\Billing\obj\Debug\Billing.UI.frmDlr_Cstmr.resources
+C:\Users\Vihz\Desktop\SE Project 2.0\2.03\Billing\Billing\obj\Debug\Billing.UI.frmInventory.resources
+C:\Users\Vihz\Desktop\SE Project 2.0\2.03\Billing\Billing\obj\Debug\Billing.UI.frmLogin.resources
+C:\Users\Vihz\Desktop\SE Project 2.0\2.03\Billing\Billing\obj\Debug\Billing.UI.frmProducts.resources
+C:\Users\Vihz\Desktop\SE Project 2.0\2.03\Billing\Billing\obj\Debug\Billing.UI.frmPurchaseAndSales.resources
+C:\Users\Vihz\Desktop\SE Project 2.0\2.03\Billing\Billing\obj\Debug\Billing.UI.frmStKeeperDashboard.resources
+C:\Users\Vihz\Desktop\SE Project 2.0\2.03\Billing\Billing\obj\Debug\Billing.UI.frmTransactions.resources
+C:\Users\Vihz\Desktop\SE Project 2.0\2.03\Billing\Billing\obj\Debug\Billing.frmUserDashboard.resources
+C:\Users\Vihz\Desktop\SE Project 2.0\2.03\Billing\Billing\obj\Debug\Billing.UI.frmUsers.resources
+C:\Users\Vihz\Desktop\SE Project 2.0\2.03\Billing\Billing\obj\Debug\Billing.UI.MassageBox.resources
+C:\Users\Vihz\Desktop\SE Project 2.0\2.03\Billing\Billing\obj\Debug\Billing.Properties.Resources.resources
+C:\Users\Vihz\Desktop\SE Project 2.0\2.03\Billing\Billing\obj\Debug\Billing.csproj.GenerateResource.Cache
+C:\Users\Vihz\Desktop\SE Project 2.0\2.04\Billing\Billing\bin\Debug\Billing.exe.config
+C:\Users\Vihz\Desktop\SE Project 2.0\2.04\Billing\Billing\obj\Debug\Billing.exe
+C:\Users\Vihz\Desktop\SE Project 2.0\2.04\Billing\Billing\obj\Debug\Billing.pdb
+C:\Users\Vihz\Desktop\SE Project 2.0\2.04\Billing\Billing\bin\Debug\STK.mdf
+C:\Users\Vihz\Desktop\SE Project 2.0\2.04\Billing\Billing\bin\Debug\STK_log.ldf
+C:\Users\Vihz\Desktop\SE Project 2.0\2.04\Billing\Billing\bin\Debug\Billing.exe
+C:\Users\Vihz\Desktop\SE Project 2.0\2.04\Billing\Billing\bin\Debug\Billing.pdb
+C:\Users\Vihz\Desktop\SE Project 2.0\2.04\Billing\Billing\obj\Debug\Billing.csprojResolveAssemblyReference.cache
+C:\Users\Vihz\Desktop\SE Project 2.0\2.04\Billing\Billing\obj\Debug\Billing.UI.AboutUs.resources
+C:\Users\Vihz\Desktop\SE Project 2.0\2.04\Billing\Billing\obj\Debug\Billing.UI.rfmAdminDashboard.resources
+C:\Users\Vihz\Desktop\SE Project 2.0\2.04\Billing\Billing\obj\Debug\Billing.UI.frmCategories.resources
+C:\Users\Vihz\Desktop\SE Project 2.0\2.04\Billing\Billing\obj\Debug\Billing.UI.frmDlr_Cstmr.resources
+C:\Users\Vihz\Desktop\SE Project 2.0\2.04\Billing\Billing\obj\Debug\Billing.UI.frmInventory.resources
+C:\Users\Vihz\Desktop\SE Project 2.0\2.04\Billing\Billing\obj\Debug\Billing.UI.frmLogin.resources
+C:\Users\Vihz\Desktop\SE Project 2.0\2.04\Billing\Billing\obj\Debug\Billing.UI.frmProducts.resources
+C:\Users\Vihz\Desktop\SE Project 2.0\2.04\Billing\Billing\obj\Debug\Billing.UI.frmPurchaseAndSales.resources
+C:\Users\Vihz\Desktop\SE Project 2.0\2.04\Billing\Billing\obj\Debug\Billing.UI.frmStKeeperDashboard.resources
+C:\Users\Vihz\Desktop\SE Project 2.0\2.04\Billing\Billing\obj\Debug\Billing.UI.frmTransactions.resources
+C:\Users\Vihz\Desktop\SE Project 2.0\2.04\Billing\Billing\obj\Debug\Billing.frmUserDashboard.resources
+C:\Users\Vihz\Desktop\SE Project 2.0\2.04\Billing\Billing\obj\Debug\Billing.UI.frmUsers.resources
+C:\Users\Vihz\Desktop\SE Project 2.0\2.04\Billing\Billing\obj\Debug\Billing.UI.MassageBox.resources
+C:\Users\Vihz\Desktop\SE Project 2.0\2.04\Billing\Billing\obj\Debug\Billing.Properties.Resources.resources
+C:\Users\Vihz\Desktop\SE Project 2.0\2.04\Billing\Billing\obj\Debug\Billing.csproj.GenerateResource.Cache
+F:\Pro New DB\Billing\Billing\bin\Debug\Billing.exe.config
+F:\Pro New DB\Billing\Billing\obj\Debug\Billing.exe
+F:\Pro New DB\Billing\Billing\obj\Debug\Billing.pdb
+F:\Pro New DB\Billing\Billing\bin\Debug\STK.mdf
+F:\Pro New DB\Billing\Billing\bin\Debug\STK_log.ldf
+F:\Pro New DB\Billing\Billing\bin\Debug\Billing.exe
+F:\Pro New DB\Billing\Billing\bin\Debug\Billing.pdb
+F:\Pro New DB\Billing\Billing\obj\Debug\Billing.csprojResolveAssemblyReference.cache
+F:\Pro New DB\Billing\Billing\obj\Debug\Billing.UI.AboutUs.resources
+F:\Pro New DB\Billing\Billing\obj\Debug\Billing.UI.rfmAdminDashboard.resources
+F:\Pro New DB\Billing\Billing\obj\Debug\Billing.UI.frmCategories.resources
+F:\Pro New DB\Billing\Billing\obj\Debug\Billing.UI.frmDlr_Cstmr.resources
+F:\Pro New DB\Billing\Billing\obj\Debug\Billing.UI.frmInventory.resources
+F:\Pro New DB\Billing\Billing\obj\Debug\Billing.UI.frmLogin.resources
+F:\Pro New DB\Billing\Billing\obj\Debug\Billing.UI.frmProducts.resources
+F:\Pro New DB\Billing\Billing\obj\Debug\Billing.UI.frmPurchaseAndSales.resources
+F:\Pro New DB\Billing\Billing\obj\Debug\Billing.UI.frmStKeeperDashboard.resources
+F:\Pro New DB\Billing\Billing\obj\Debug\Billing.UI.frmTransactions.resources
+F:\Pro New DB\Billing\Billing\obj\Debug\Billing.frmUserDashboard.resources
+F:\Pro New DB\Billing\Billing\obj\Debug\Billing.UI.frmUsers.resources
+F:\Pro New DB\Billing\Billing\obj\Debug\Billing.UI.MassageBox.resources
+F:\Pro New DB\Billing\Billing\obj\Debug\Billing.Properties.Resources.resources
+F:\Pro New DB\Billing\Billing\obj\Debug\Billing.csproj.GenerateResource.Cache
+F:\Pro New DB\NewDB1.01\Billing\Billing\bin\Debug\Billing.exe.config
+F:\Pro New DB\NewDB1.01\Billing\Billing\obj\Debug\Billing.exe
+F:\Pro New DB\NewDB1.01\Billing\Billing\obj\Debug\Billing.pdb
+F:\Pro New DB\NewDB1.01\Billing\Billing\bin\Debug\STK.mdf
+F:\Pro New DB\NewDB1.01\Billing\Billing\bin\Debug\STK_log.ldf
+F:\Pro New DB\NewDB1.01\Billing\Billing\bin\Debug\Billing.exe
+F:\Pro New DB\NewDB1.01\Billing\Billing\bin\Debug\Billing.pdb
+F:\Pro New DB\NewDB1.01\Billing\Billing\obj\Debug\Billing.csprojResolveAssemblyReference.cache
+F:\Pro New DB\NewDB1.01\Billing\Billing\obj\Debug\Billing.UI.AboutUs.resources
+F:\Pro New DB\NewDB1.01\Billing\Billing\obj\Debug\Billing.UI.rfmAdminDashboard.resources
+F:\Pro New DB\NewDB1.01\Billing\Billing\obj\Debug\Billing.UI.frmCategories.resources
+F:\Pro New DB\NewDB1.01\Billing\Billing\obj\Debug\Billing.UI.frmDlr_Cstmr.resources
+F:\Pro New DB\NewDB1.01\Billing\Billing\obj\Debug\Billing.UI.frmInventory.resources
+F:\Pro New DB\NewDB1.01\Billing\Billing\obj\Debug\Billing.UI.frmLogin.resources
+F:\Pro New DB\NewDB1.01\Billing\Billing\obj\Debug\Billing.UI.frmProducts.resources
+F:\Pro New DB\NewDB1.01\Billing\Billing\obj\Debug\Billing.UI.frmPurchaseAndSales.resources
+F:\Pro New DB\NewDB1.01\Billing\Billing\obj\Debug\Billing.UI.frmStKeeperDashboard.resources
+F:\Pro New DB\NewDB1.01\Billing\Billing\obj\Debug\Billing.UI.frmTransactions.resources
+F:\Pro New DB\NewDB1.01\Billing\Billing\obj\Debug\Billing.frmUserDashboard.resources
+F:\Pro New DB\NewDB1.01\Billing\Billing\obj\Debug\Billing.UI.frmUsers.resources
+F:\Pro New DB\NewDB1.01\Billing\Billing\obj\Debug\Billing.UI.MassageBox.resources
+F:\Pro New DB\NewDB1.01\Billing\Billing\obj\Debug\Billing.Properties.Resources.resources
+F:\Pro New DB\NewDB1.01\Billing\Billing\obj\Debug\Billing.csproj.GenerateResource.Cache
+F:\Pro New DB\NewDB1.02\Billing\Billing\bin\Debug\Billing.exe.config
+F:\Pro New DB\NewDB1.02\Billing\Billing\obj\Debug\Billing.exe
+F:\Pro New DB\NewDB1.02\Billing\Billing\obj\Debug\Billing.pdb
+F:\Pro New DB\NewDB1.02\Billing\Billing\bin\Debug\STK.mdf
+F:\Pro New DB\NewDB1.02\Billing\Billing\bin\Debug\STK_log.ldf
+F:\Pro New DB\NewDB1.02\Billing\Billing\bin\Debug\Billing.exe
+F:\Pro New DB\NewDB1.02\Billing\Billing\bin\Debug\Billing.pdb
+F:\Pro New DB\NewDB1.02\Billing\Billing\obj\Debug\Billing.csprojResolveAssemblyReference.cache
+F:\Pro New DB\NewDB1.02\Billing\Billing\obj\Debug\Billing.UI.AboutUs.resources
+F:\Pro New DB\NewDB1.02\Billing\Billing\obj\Debug\Billing.UI.rfmAdminDashboard.resources
+F:\Pro New DB\NewDB1.02\Billing\Billing\obj\Debug\Billing.UI.frmCategories.resources
+F:\Pro New DB\NewDB1.02\Billing\Billing\obj\Debug\Billing.UI.frmDlr_Cstmr.resources
+F:\Pro New DB\NewDB1.02\Billing\Billing\obj\Debug\Billing.UI.frmInventory.resources
+F:\Pro New DB\NewDB1.02\Billing\Billing\obj\Debug\Billing.UI.frmLogin.resources
+F:\Pro New DB\NewDB1.02\Billing\Billing\obj\Debug\Billing.UI.frmProducts.resources
+F:\Pro New DB\NewDB1.02\Billing\Billing\obj\Debug\Billing.UI.frmPurchaseAndSales.resources
+F:\Pro New DB\NewDB1.02\Billing\Billing\obj\Debug\Billing.UI.frmStKeeperDashboard.resources
+F:\Pro New DB\NewDB1.02\Billing\Billing\obj\Debug\Billing.UI.frmTransactions.resources
+F:\Pro New DB\NewDB1.02\Billing\Billing\obj\Debug\Billing.frmUserDashboard.resources
+F:\Pro New DB\NewDB1.02\Billing\Billing\obj\Debug\Billing.UI.frmUsers.resources
+F:\Pro New DB\NewDB1.02\Billing\Billing\obj\Debug\Billing.UI.MassageBox.resources
+F:\Pro New DB\NewDB1.02\Billing\Billing\obj\Debug\Billing.Properties.Resources.resources
+F:\Pro New DB\NewDB1.02\Billing\Billing\obj\Debug\Billing.csproj.GenerateResource.Cache
+F:\Pro New DB\NewDB1.03\Billing\Billing\bin\Debug\Billing.exe.config
+F:\Pro New DB\NewDB1.03\Billing\Billing\obj\Debug\Billing.exe
+F:\Pro New DB\NewDB1.03\Billing\Billing\obj\Debug\Billing.pdb
+F:\Pro New DB\NewDB1.03\Billing\Billing\bin\Debug\STK.mdf
+F:\Pro New DB\NewDB1.03\Billing\Billing\bin\Debug\STK_log.ldf
+F:\Pro New DB\NewDB1.03\Billing\Billing\bin\Debug\Billing.exe
+F:\Pro New DB\NewDB1.03\Billing\Billing\bin\Debug\Billing.pdb
+F:\Pro New DB\NewDB1.03\Billing\Billing\obj\Debug\Billing.csprojResolveAssemblyReference.cache
+F:\Pro New DB\NewDB1.03\Billing\Billing\obj\Debug\Billing.UI.AboutUs.resources
+F:\Pro New DB\NewDB1.03\Billing\Billing\obj\Debug\Billing.UI.rfmAdminDashboard.resources
+F:\Pro New DB\NewDB1.03\Billing\Billing\obj\Debug\Billing.UI.frmCategories.resources
+F:\Pro New DB\NewDB1.03\Billing\Billing\obj\Debug\Billing.UI.frmDlr_Cstmr.resources
+F:\Pro New DB\NewDB1.03\Billing\Billing\obj\Debug\Billing.UI.frmInventory.resources
+F:\Pro New DB\NewDB1.03\Billing\Billing\obj\Debug\Billing.UI.frmLogin.resources
+F:\Pro New DB\NewDB1.03\Billing\Billing\obj\Debug\Billing.UI.frmProducts.resources
+F:\Pro New DB\NewDB1.03\Billing\Billing\obj\Debug\Billing.UI.frmPurchaseAndSales.resources
+F:\Pro New DB\NewDB1.03\Billing\Billing\obj\Debug\Billing.UI.frmStKeeperDashboard.resources
+F:\Pro New DB\NewDB1.03\Billing\Billing\obj\Debug\Billing.UI.frmTransactions.resources
+F:\Pro New DB\NewDB1.03\Billing\Billing\obj\Debug\Billing.frmUserDashboard.resources
+F:\Pro New DB\NewDB1.03\Billing\Billing\obj\Debug\Billing.UI.frmUsers.resources
+F:\Pro New DB\NewDB1.03\Billing\Billing\obj\Debug\Billing.UI.MassageBox.resources
+F:\Pro New DB\NewDB1.03\Billing\Billing\obj\Debug\Billing.Properties.Resources.resources
+F:\Pro New DB\NewDB1.03\Billing\Billing\obj\Debug\Billing.csproj.GenerateResource.Cache
+F:\Pro New DB\NewDB1.04\Billing\Billing\bin\Debug\Billing.exe.config
+F:\Pro New DB\NewDB1.04\Billing\Billing\obj\Debug\Billing.exe
+F:\Pro New DB\NewDB1.04\Billing\Billing\obj\Debug\Billing.pdb
+F:\Pro New DB\NewDB1.04\Billing\Billing\bin\Debug\STK.mdf
+F:\Pro New DB\NewDB1.04\Billing\Billing\bin\Debug\STK_log.ldf
+F:\Pro New DB\NewDB1.04\Billing\Billing\bin\Debug\Billing.exe
+F:\Pro New DB\NewDB1.04\Billing\Billing\bin\Debug\Billing.pdb
+F:\Pro New DB\NewDB1.04\Billing\Billing\obj\Debug\Billing.csprojResolveAssemblyReference.cache
+F:\Pro New DB\NewDB1.04\Billing\Billing\obj\Debug\Billing.UI.AboutUs.resources
+F:\Pro New DB\NewDB1.04\Billing\Billing\obj\Debug\Billing.UI.rfmAdminDashboard.resources
+F:\Pro New DB\NewDB1.04\Billing\Billing\obj\Debug\Billing.UI.frmCategories.resources
+F:\Pro New DB\NewDB1.04\Billing\Billing\obj\Debug\Billing.UI.frmDlr_Cstmr.resources
+F:\Pro New DB\NewDB1.04\Billing\Billing\obj\Debug\Billing.UI.frmInventory.resources
+F:\Pro New DB\NewDB1.04\Billing\Billing\obj\Debug\Billing.UI.frmLogin.resources
+F:\Pro New DB\NewDB1.04\Billing\Billing\obj\Debug\Billing.UI.frmProducts.resources
+F:\Pro New DB\NewDB1.04\Billing\Billing\obj\Debug\Billing.UI.frmPurchaseAndSales.resources
+F:\Pro New DB\NewDB1.04\Billing\Billing\obj\Debug\Billing.UI.frmStKeeperDashboard.resources
+F:\Pro New DB\NewDB1.04\Billing\Billing\obj\Debug\Billing.UI.frmTransactions.resources
+F:\Pro New DB\NewDB1.04\Billing\Billing\obj\Debug\Billing.frmUserDashboard.resources
+F:\Pro New DB\NewDB1.04\Billing\Billing\obj\Debug\Billing.UI.frmUsers.resources
+F:\Pro New DB\NewDB1.04\Billing\Billing\obj\Debug\Billing.UI.MassageBox.resources
+F:\Pro New DB\NewDB1.04\Billing\Billing\obj\Debug\Billing.Properties.Resources.resources
+F:\Pro New DB\NewDB1.04\Billing\Billing\obj\Debug\Billing.csproj.GenerateResource.Cache
+F:\Pro New DB\NewDB1.05\Billing\Billing\bin\Debug\Billing.exe.config
+F:\Pro New DB\NewDB1.05\Billing\Billing\obj\Debug\Billing.exe
+F:\Pro New DB\NewDB1.05\Billing\Billing\obj\Debug\Billing.pdb
+F:\Pro New DB\NewDB1.05\Billing\Billing\bin\Debug\STK.mdf
+F:\Pro New DB\NewDB1.05\Billing\Billing\bin\Debug\STK_log.ldf
+F:\Pro New DB\NewDB1.05\Billing\Billing\bin\Debug\Billing.exe
+F:\Pro New DB\NewDB1.05\Billing\Billing\bin\Debug\Billing.pdb
+F:\Pro New DB\NewDB1.05\Billing\Billing\obj\Debug\Billing.csprojResolveAssemblyReference.cache
+F:\Pro New DB\NewDB1.05\Billing\Billing\obj\Debug\Billing.UI.AboutUs.resources
+F:\Pro New DB\NewDB1.05\Billing\Billing\obj\Debug\Billing.UI.rfmAdminDashboard.resources
+F:\Pro New DB\NewDB1.05\Billing\Billing\obj\Debug\Billing.UI.frmCategories.resources
+F:\Pro New DB\NewDB1.05\Billing\Billing\obj\Debug\Billing.UI.frmDlr_Cstmr.resources
+F:\Pro New DB\NewDB1.05\Billing\Billing\obj\Debug\Billing.UI.frmInventory.resources
+F:\Pro New DB\NewDB1.05\Billing\Billing\obj\Debug\Billing.UI.frmLogin.resources
+F:\Pro New DB\NewDB1.05\Billing\Billing\obj\Debug\Billing.UI.frmProducts.resources
+F:\Pro New DB\NewDB1.05\Billing\Billing\obj\Debug\Billing.UI.frmPurchaseAndSales.resources
+F:\Pro New DB\NewDB1.05\Billing\Billing\obj\Debug\Billing.UI.frmStKeeperDashboard.resources
+F:\Pro New DB\NewDB1.05\Billing\Billing\obj\Debug\Billing.UI.frmTransactions.resources
+F:\Pro New DB\NewDB1.05\Billing\Billing\obj\Debug\Billing.frmUserDashboard.resources
+F:\Pro New DB\NewDB1.05\Billing\Billing\obj\Debug\Billing.UI.frmUsers.resources
+F:\Pro New DB\NewDB1.05\Billing\Billing\obj\Debug\Billing.UI.MassageBox.resources
+F:\Pro New DB\NewDB1.05\Billing\Billing\obj\Debug\Billing.Properties.Resources.resources
+F:\Pro New DB\NewDB1.05\Billing\Billing\obj\Debug\Billing.csproj.GenerateResource.Cache
+F:\Pro New DB\NewDB1.06\Billing\Billing\bin\Debug\Billing.exe.config
+F:\Pro New DB\NewDB1.06\Billing\Billing\obj\Debug\Billing.exe
+F:\Pro New DB\NewDB1.06\Billing\Billing\obj\Debug\Billing.pdb
+F:\Pro New DB\NewDB1.06\Billing\Billing\bin\Debug\STK.mdf
+F:\Pro New DB\NewDB1.06\Billing\Billing\bin\Debug\STK_log.ldf
+F:\Pro New DB\NewDB1.06\Billing\Billing\bin\Debug\Billing.exe
+F:\Pro New DB\NewDB1.06\Billing\Billing\bin\Debug\Billing.pdb
+F:\Pro New DB\NewDB1.06\Billing\Billing\obj\Debug\Billing.csprojResolveAssemblyReference.cache
+F:\Pro New DB\NewDB1.06\Billing\Billing\obj\Debug\Billing.UI.AboutUs.resources
+F:\Pro New DB\NewDB1.06\Billing\Billing\obj\Debug\Billing.UI.rfmAdminDashboard.resources
+F:\Pro New DB\NewDB1.06\Billing\Billing\obj\Debug\Billing.UI.frmCategories.resources
+F:\Pro New DB\NewDB1.06\Billing\Billing\obj\Debug\Billing.UI.frmDlr_Cstmr.resources
+F:\Pro New DB\NewDB1.06\Billing\Billing\obj\Debug\Billing.UI.frmInventory.resources
+F:\Pro New DB\NewDB1.06\Billing\Billing\obj\Debug\Billing.UI.frmLogin.resources
+F:\Pro New DB\NewDB1.06\Billing\Billing\obj\Debug\Billing.UI.frmProducts.resources
+F:\Pro New DB\NewDB1.06\Billing\Billing\obj\Debug\Billing.UI.frmPurchaseAndSales.resources
+F:\Pro New DB\NewDB1.06\Billing\Billing\obj\Debug\Billing.UI.frmStKeeperDashboard.resources
+F:\Pro New DB\NewDB1.06\Billing\Billing\obj\Debug\Billing.UI.frmTransactions.resources
+F:\Pro New DB\NewDB1.06\Billing\Billing\obj\Debug\Billing.frmUserDashboard.resources
+F:\Pro New DB\NewDB1.06\Billing\Billing\obj\Debug\Billing.UI.frmUsers.resources
+F:\Pro New DB\NewDB1.06\Billing\Billing\obj\Debug\Billing.UI.MassageBox.resources
+F:\Pro New DB\NewDB1.06\Billing\Billing\obj\Debug\Billing.Properties.Resources.resources
+F:\Pro New DB\NewDB1.06\Billing\Billing\obj\Debug\Billing.csproj.GenerateResource.Cache
+F:\Pro New DB\NewDB1.07\Billing\Billing\bin\Debug\Billing.exe.config
+F:\Pro New DB\NewDB1.07\Billing\Billing\obj\Debug\Billing.exe
+F:\Pro New DB\NewDB1.07\Billing\Billing\obj\Debug\Billing.pdb
+F:\Pro New DB\NewDB1.07\Billing\Billing\bin\Debug\STK.mdf
+F:\Pro New DB\NewDB1.07\Billing\Billing\bin\Debug\STK_log.ldf
+F:\Pro New DB\NewDB1.07\Billing\Billing\bin\Debug\Billing.exe
+F:\Pro New DB\NewDB1.07\Billing\Billing\bin\Debug\Billing.pdb
+F:\Pro New DB\NewDB1.07\Billing\Billing\obj\Debug\Billing.csprojResolveAssemblyReference.cache
+F:\Pro New DB\NewDB1.07\Billing\Billing\obj\Debug\Billing.UI.AboutUs.resources
+F:\Pro New DB\NewDB1.07\Billing\Billing\obj\Debug\Billing.UI.rfmAdminDashboard.resources
+F:\Pro New DB\NewDB1.07\Billing\Billing\obj\Debug\Billing.UI.frmCategories.resources
+F:\Pro New DB\NewDB1.07\Billing\Billing\obj\Debug\Billing.UI.frmDlr_Cstmr.resources
+F:\Pro New DB\NewDB1.07\Billing\Billing\obj\Debug\Billing.UI.frmInventory.resources
+F:\Pro New DB\NewDB1.07\Billing\Billing\obj\Debug\Billing.UI.frmLogin.resources
+F:\Pro New DB\NewDB1.07\Billing\Billing\obj\Debug\Billing.UI.frmProducts.resources
+F:\Pro New DB\NewDB1.07\Billing\Billing\obj\Debug\Billing.UI.frmPurchaseAndSales.resources
+F:\Pro New DB\NewDB1.07\Billing\Billing\obj\Debug\Billing.UI.frmStKeeperDashboard.resources
+F:\Pro New DB\NewDB1.07\Billing\Billing\obj\Debug\Billing.UI.frmTransactions.resources
+F:\Pro New DB\NewDB1.07\Billing\Billing\obj\Debug\Billing.frmUserDashboard.resources
+F:\Pro New DB\NewDB1.07\Billing\Billing\obj\Debug\Billing.UI.frmUsers.resources
+F:\Pro New DB\NewDB1.07\Billing\Billing\obj\Debug\Billing.UI.MassageBox.resources
+F:\Pro New DB\NewDB1.07\Billing\Billing\obj\Debug\Billing.Properties.Resources.resources
+F:\Pro New DB\NewDB1.07\Billing\Billing\obj\Debug\Billing.csproj.GenerateResource.Cache
+F:\Pro New DB\NewDB1.08\Billing\Billing\bin\Debug\Billing.exe.config
+F:\Pro New DB\NewDB1.08\Billing\Billing\obj\Debug\Billing.exe
+F:\Pro New DB\NewDB1.08\Billing\Billing\obj\Debug\Billing.pdb
+F:\Pro New DB\NewDB1.08\Billing\Billing\bin\Debug\STK.mdf
+F:\Pro New DB\NewDB1.08\Billing\Billing\bin\Debug\STK_log.ldf
+F:\Pro New DB\NewDB1.08\Billing\Billing\bin\Debug\Billing.exe
+F:\Pro New DB\NewDB1.08\Billing\Billing\bin\Debug\Billing.pdb
+F:\Pro New DB\NewDB1.08\Billing\Billing\obj\Debug\Billing.csprojResolveAssemblyReference.cache
+F:\Pro New DB\NewDB1.08\Billing\Billing\obj\Debug\Billing.UI.AboutUs.resources
+F:\Pro New DB\NewDB1.08\Billing\Billing\obj\Debug\Billing.UI.rfmAdminDashboard.resources
+F:\Pro New DB\NewDB1.08\Billing\Billing\obj\Debug\Billing.UI.frmCategories.resources
+F:\Pro New DB\NewDB1.08\Billing\Billing\obj\Debug\Billing.UI.frmDlr_Cstmr.resources
+F:\Pro New DB\NewDB1.08\Billing\Billing\obj\Debug\Billing.UI.frmInventory.resources
+F:\Pro New DB\NewDB1.08\Billing\Billing\obj\Debug\Billing.UI.frmLogin.resources
+F:\Pro New DB\NewDB1.08\Billing\Billing\obj\Debug\Billing.UI.frmProducts.resources
+F:\Pro New DB\NewDB1.08\Billing\Billing\obj\Debug\Billing.UI.frmPurchaseAndSales.resources
+F:\Pro New DB\NewDB1.08\Billing\Billing\obj\Debug\Billing.UI.frmStKeeperDashboard.resources
+F:\Pro New DB\NewDB1.08\Billing\Billing\obj\Debug\Billing.UI.frmTransactions.resources
+F:\Pro New DB\NewDB1.08\Billing\Billing\obj\Debug\Billing.frmUserDashboard.resources
+F:\Pro New DB\NewDB1.08\Billing\Billing\obj\Debug\Billing.UI.frmUsers.resources
+F:\Pro New DB\NewDB1.08\Billing\Billing\obj\Debug\Billing.UI.MassageBox.resources
+F:\Pro New DB\NewDB1.08\Billing\Billing\obj\Debug\Billing.Properties.Resources.resources
+F:\Pro New DB\NewDB1.08\Billing\Billing\obj\Debug\Billing.csproj.GenerateResource.Cache
+C:\Users\Vihz\Desktop\NEWDB2.0\Billing\Billing\bin\Debug\Billing.exe.config
+C:\Users\Vihz\Desktop\NEWDB2.0\Billing\Billing\obj\Debug\Billing.exe
+C:\Users\Vihz\Desktop\NEWDB2.0\Billing\Billing\obj\Debug\Billing.pdb
+C:\Users\Vihz\Desktop\NEWDB2.0\Billing\Billing\bin\Debug\STK.mdf
+C:\Users\Vihz\Desktop\NEWDB2.0\Billing\Billing\bin\Debug\STK_log.ldf
+C:\Users\Vihz\Desktop\NEWDB2.0\Billing\Billing\bin\Debug\Billing.exe
+C:\Users\Vihz\Desktop\NEWDB2.0\Billing\Billing\bin\Debug\Billing.pdb
+C:\Users\Vihz\Desktop\NEWDB2.0\Billing\Billing\obj\Debug\Billing.csprojResolveAssemblyReference.cache
+C:\Users\Vihz\Desktop\NEWDB2.0\Billing\Billing\obj\Debug\Billing.UI.AboutUs.resources
+C:\Users\Vihz\Desktop\NEWDB2.0\Billing\Billing\obj\Debug\Billing.UI.rfmAdminDashboard.resources
+C:\Users\Vihz\Desktop\NEWDB2.0\Billing\Billing\obj\Debug\Billing.UI.frmCategories.resources
+C:\Users\Vihz\Desktop\NEWDB2.0\Billing\Billing\obj\Debug\Billing.UI.frmDlr_Cstmr.resources
+C:\Users\Vihz\Desktop\NEWDB2.0\Billing\Billing\obj\Debug\Billing.UI.frmInventory.resources
+C:\Users\Vihz\Desktop\NEWDB2.0\Billing\Billing\obj\Debug\Billing.UI.frmLogin.resources
+C:\Users\Vihz\Desktop\NEWDB2.0\Billing\Billing\obj\Debug\Billing.UI.frmProducts.resources
+C:\Users\Vihz\Desktop\NEWDB2.0\Billing\Billing\obj\Debug\Billing.UI.frmPurchaseAndSales.resources
+C:\Users\Vihz\Desktop\NEWDB2.0\Billing\Billing\obj\Debug\Billing.UI.frmStKeeperDashboard.resources
+C:\Users\Vihz\Desktop\NEWDB2.0\Billing\Billing\obj\Debug\Billing.UI.frmTransactions.resources
+C:\Users\Vihz\Desktop\NEWDB2.0\Billing\Billing\obj\Debug\Billing.frmUserDashboard.resources
+C:\Users\Vihz\Desktop\NEWDB2.0\Billing\Billing\obj\Debug\Billing.UI.frmUsers.resources
+C:\Users\Vihz\Desktop\NEWDB2.0\Billing\Billing\obj\Debug\Billing.UI.MassageBox.resources
+C:\Users\Vihz\Desktop\NEWDB2.0\Billing\Billing\obj\Debug\Billing.Properties.Resources.resources
+C:\Users\Vihz\Desktop\NEWDB2.0\Billing\Billing\obj\Debug\Billing.csproj.GenerateResource.Cache
+C:\Users\Vihz\Desktop\2.0\NewDB2.01\Billing\Billing\bin\Debug\Billing.exe.config
+C:\Users\Vihz\Desktop\2.0\NewDB2.01\Billing\Billing\obj\Debug\Billing.exe
+C:\Users\Vihz\Desktop\2.0\NewDB2.01\Billing\Billing\obj\Debug\Billing.pdb
+C:\Users\Vihz\Desktop\2.0\NewDB2.01\Billing\Billing\bin\Debug\STK.mdf
+C:\Users\Vihz\Desktop\2.0\NewDB2.01\Billing\Billing\bin\Debug\STK_log.ldf
+C:\Users\Vihz\Desktop\2.0\NewDB2.01\Billing\Billing\bin\Debug\Billing.exe
+C:\Users\Vihz\Desktop\2.0\NewDB2.01\Billing\Billing\bin\Debug\Billing.pdb
+C:\Users\Vihz\Desktop\2.0\NewDB2.01\Billing\Billing\obj\Debug\Billing.csprojResolveAssemblyReference.cache
+C:\Users\Vihz\Desktop\2.0\NewDB2.01\Billing\Billing\obj\Debug\Billing.UI.AboutUs.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.01\Billing\Billing\obj\Debug\Billing.UI.rfmAdminDashboard.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.01\Billing\Billing\obj\Debug\Billing.UI.frmCategories.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.01\Billing\Billing\obj\Debug\Billing.UI.frmDlr_Cstmr.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.01\Billing\Billing\obj\Debug\Billing.UI.frmInventory.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.01\Billing\Billing\obj\Debug\Billing.UI.frmLogin.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.01\Billing\Billing\obj\Debug\Billing.UI.frmProducts.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.01\Billing\Billing\obj\Debug\Billing.UI.frmPurchaseAndSales.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.01\Billing\Billing\obj\Debug\Billing.UI.frmStKeeperDashboard.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.01\Billing\Billing\obj\Debug\Billing.UI.frmTransactions.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.01\Billing\Billing\obj\Debug\Billing.frmUserDashboard.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.01\Billing\Billing\obj\Debug\Billing.UI.frmUsers.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.01\Billing\Billing\obj\Debug\Billing.UI.MassageBox.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.01\Billing\Billing\obj\Debug\Billing.Properties.Resources.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.01\Billing\Billing\obj\Debug\Billing.csproj.GenerateResource.Cache
+C:\Users\Vihz\Desktop\2.0\NewDB2.02\Billing\Billing\bin\Debug\Billing.exe.config
+C:\Users\Vihz\Desktop\2.0\NewDB2.02\Billing\Billing\obj\Debug\Billing.exe
+C:\Users\Vihz\Desktop\2.0\NewDB2.02\Billing\Billing\obj\Debug\Billing.pdb
+C:\Users\Vihz\Desktop\2.0\NewDB2.02\Billing\Billing\bin\Debug\STK.mdf
+C:\Users\Vihz\Desktop\2.0\NewDB2.02\Billing\Billing\bin\Debug\STK_log.ldf
+C:\Users\Vihz\Desktop\2.0\NewDB2.02\Billing\Billing\bin\Debug\Billing.exe
+C:\Users\Vihz\Desktop\2.0\NewDB2.02\Billing\Billing\bin\Debug\Billing.pdb
+C:\Users\Vihz\Desktop\2.0\NewDB2.02\Billing\Billing\obj\Debug\Billing.csprojResolveAssemblyReference.cache
+C:\Users\Vihz\Desktop\2.0\NewDB2.02\Billing\Billing\obj\Debug\Billing.UI.AboutUs.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.02\Billing\Billing\obj\Debug\Billing.UI.rfmAdminDashboard.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.02\Billing\Billing\obj\Debug\Billing.UI.frmCategories.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.02\Billing\Billing\obj\Debug\Billing.UI.frmDlr_Cstmr.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.02\Billing\Billing\obj\Debug\Billing.UI.frmInventory.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.02\Billing\Billing\obj\Debug\Billing.UI.frmLogin.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.02\Billing\Billing\obj\Debug\Billing.UI.frmProducts.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.02\Billing\Billing\obj\Debug\Billing.UI.frmPurchaseAndSales.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.02\Billing\Billing\obj\Debug\Billing.UI.frmStKeeperDashboard.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.02\Billing\Billing\obj\Debug\Billing.UI.frmTransactions.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.02\Billing\Billing\obj\Debug\Billing.frmUserDashboard.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.02\Billing\Billing\obj\Debug\Billing.UI.frmUsers.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.02\Billing\Billing\obj\Debug\Billing.UI.MassageBox.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.02\Billing\Billing\obj\Debug\Billing.Properties.Resources.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.02\Billing\Billing\obj\Debug\Billing.csproj.GenerateResource.Cache
+C:\Users\Vihz\Desktop\2.0\NewDB2.03\Billing\Billing\bin\Debug\Billing.exe.config
+C:\Users\Vihz\Desktop\2.0\NewDB2.03\Billing\Billing\obj\Debug\Billing.exe
+C:\Users\Vihz\Desktop\2.0\NewDB2.03\Billing\Billing\obj\Debug\Billing.pdb
+C:\Users\Vihz\Desktop\2.0\NewDB2.03\Billing\Billing\bin\Debug\STK.mdf
+C:\Users\Vihz\Desktop\2.0\NewDB2.03\Billing\Billing\bin\Debug\STK_log.ldf
+C:\Users\Vihz\Desktop\2.0\NewDB2.03\Billing\Billing\bin\Debug\Billing.exe
+C:\Users\Vihz\Desktop\2.0\NewDB2.03\Billing\Billing\bin\Debug\Billing.pdb
+C:\Users\Vihz\Desktop\2.0\NewDB2.03\Billing\Billing\obj\Debug\Billing.csprojResolveAssemblyReference.cache
+C:\Users\Vihz\Desktop\2.0\NewDB2.03\Billing\Billing\obj\Debug\Billing.UI.AboutUs.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.03\Billing\Billing\obj\Debug\Billing.UI.rfmAdminDashboard.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.03\Billing\Billing\obj\Debug\Billing.UI.frmCategories.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.03\Billing\Billing\obj\Debug\Billing.UI.frmDlr_Cstmr.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.03\Billing\Billing\obj\Debug\Billing.UI.frmInventory.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.03\Billing\Billing\obj\Debug\Billing.UI.frmLogin.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.03\Billing\Billing\obj\Debug\Billing.UI.frmProducts.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.03\Billing\Billing\obj\Debug\Billing.UI.frmPurchaseAndSales.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.03\Billing\Billing\obj\Debug\Billing.UI.frmStKeeperDashboard.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.03\Billing\Billing\obj\Debug\Billing.UI.frmTransactions.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.03\Billing\Billing\obj\Debug\Billing.frmUserDashboard.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.03\Billing\Billing\obj\Debug\Billing.UI.frmUsers.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.03\Billing\Billing\obj\Debug\Billing.UI.MassageBox.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.03\Billing\Billing\obj\Debug\Billing.Properties.Resources.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.03\Billing\Billing\obj\Debug\Billing.csproj.GenerateResource.Cache
+C:\Users\Vihz\Desktop\2.0\NewDB2.03\Billing\Billing\obj\Debug\Billing.UI.Alert.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.04\Billing\Billing\bin\Debug\Billing.exe.config
+C:\Users\Vihz\Desktop\2.0\NewDB2.04\Billing\Billing\obj\Debug\Billing.exe
+C:\Users\Vihz\Desktop\2.0\NewDB2.04\Billing\Billing\obj\Debug\Billing.pdb
+C:\Users\Vihz\Desktop\2.0\NewDB2.04\Billing\Billing\bin\Debug\STK.mdf
+C:\Users\Vihz\Desktop\2.0\NewDB2.04\Billing\Billing\bin\Debug\STK_log.ldf
+C:\Users\Vihz\Desktop\2.0\NewDB2.04\Billing\Billing\bin\Debug\Billing.exe
+C:\Users\Vihz\Desktop\2.0\NewDB2.04\Billing\Billing\bin\Debug\Billing.pdb
+C:\Users\Vihz\Desktop\2.0\NewDB2.04\Billing\Billing\obj\Debug\Billing.csprojResolveAssemblyReference.cache
+C:\Users\Vihz\Desktop\2.0\NewDB2.04\Billing\Billing\obj\Debug\Billing.UI.AboutUs.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.04\Billing\Billing\obj\Debug\Billing.UI.rfmAdminDashboard.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.04\Billing\Billing\obj\Debug\Billing.UI.Alert.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.04\Billing\Billing\obj\Debug\Billing.UI.frmCategories.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.04\Billing\Billing\obj\Debug\Billing.UI.frmDlr_Cstmr.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.04\Billing\Billing\obj\Debug\Billing.UI.frmInventory.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.04\Billing\Billing\obj\Debug\Billing.UI.frmLogin.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.04\Billing\Billing\obj\Debug\Billing.UI.frmProducts.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.04\Billing\Billing\obj\Debug\Billing.UI.frmPurchaseAndSales.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.04\Billing\Billing\obj\Debug\Billing.UI.frmStKeeperDashboard.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.04\Billing\Billing\obj\Debug\Billing.UI.frmTransactions.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.04\Billing\Billing\obj\Debug\Billing.frmUserDashboard.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.04\Billing\Billing\obj\Debug\Billing.UI.frmUsers.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.04\Billing\Billing\obj\Debug\Billing.UI.MassageBox.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.04\Billing\Billing\obj\Debug\Billing.Properties.Resources.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.04\Billing\Billing\obj\Debug\Billing.csproj.GenerateResource.Cache
+C:\Users\Vihz\Desktop\2.0\NewDB2.04\Billing\Billing\obj\Debug\Billing.UI.PReturn.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.05Viva\Billing\Billing\bin\Debug\Billing.exe.config
+C:\Users\Vihz\Desktop\2.0\NewDB2.05Viva\Billing\Billing\obj\Debug\Billing.exe
+C:\Users\Vihz\Desktop\2.0\NewDB2.05Viva\Billing\Billing\obj\Debug\Billing.pdb
+C:\Users\Vihz\Desktop\2.0\NewDB2.05Viva\Billing\Billing\obj\Debug\Billing.csprojResolveAssemblyReference.cache
+C:\Users\Vihz\Desktop\2.0\NewDB2.05Viva\Billing\Billing\obj\Debug\Billing.UI.AboutUs.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.05Viva\Billing\Billing\obj\Debug\Billing.UI.rfmAdminDashboard.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.05Viva\Billing\Billing\obj\Debug\Billing.UI.Alert.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.05Viva\Billing\Billing\obj\Debug\Billing.UI.frmCategories.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.05Viva\Billing\Billing\obj\Debug\Billing.UI.frmDlr_Cstmr.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.05Viva\Billing\Billing\obj\Debug\Billing.UI.frmInventory.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.05Viva\Billing\Billing\obj\Debug\Billing.UI.frmLogin.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.05Viva\Billing\Billing\obj\Debug\Billing.UI.frmProducts.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.05Viva\Billing\Billing\obj\Debug\Billing.UI.frmPurchaseAndSales.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.05Viva\Billing\Billing\obj\Debug\Billing.UI.frmStKeeperDashboard.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.05Viva\Billing\Billing\obj\Debug\Billing.UI.frmTransactions.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.05Viva\Billing\Billing\obj\Debug\Billing.frmUserDashboard.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.05Viva\Billing\Billing\obj\Debug\Billing.UI.frmUsers.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.05Viva\Billing\Billing\obj\Debug\Billing.UI.MassageBox.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.05Viva\Billing\Billing\obj\Debug\Billing.Properties.Resources.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.05Viva\Billing\Billing\obj\Debug\Billing.UI.PReturn.resources
+C:\Users\Vihz\Desktop\2.0\NewDB2.05Viva\Billing\Billing\obj\Debug\Billing.csproj.GenerateResource.Cache
+C:\Users\Vihz\Desktop\2.0\NewDB2.05Viva\Billing\Billing\bin\Debug\STK.mdf
+C:\Users\Vihz\Desktop\2.0\NewDB2.05Viva\Billing\Billing\bin\Debug\STK_log.ldf
+C:\Users\Vihz\Desktop\2.0\NewDB2.05Viva\Billing\Billing\bin\Debug\Billing.exe
+C:\Users\Vihz\Desktop\2.0\NewDB2.05Viva\Billing\Billing\bin\Debug\Billing.pdb
+C:\Users\Vihz\Desktop\VIVA Final\NewDB2.05Viva\Billing\Billing\bin\Debug\Billing.exe.config
+C:\Users\Vihz\Desktop\VIVA Final\NewDB2.05Viva\Billing\Billing\obj\Debug\Billing.exe
+C:\Users\Vihz\Desktop\VIVA Final\NewDB2.05Viva\Billing\Billing\obj\Debug\Billing.pdb
+C:\Users\Vihz\Desktop\VIVA Final\NewDB2.05Viva\Billing\Billing\bin\Debug\STK.mdf
+C:\Users\Vihz\Desktop\VIVA Final\NewDB2.05Viva\Billing\Billing\bin\Debug\STK_log.ldf
+C:\Users\Vihz\Desktop\VIVA Final\NewDB2.05Viva\Billing\Billing\bin\Debug\Billing.exe
+C:\Users\Vihz\Desktop\VIVA Final\NewDB2.05Viva\Billing\Billing\bin\Debug\Billing.pdb
+C:\Users\Vihz\Desktop\VIVA Final\NewDB2.05Viva\Billing\Billing\obj\Debug\Billing.csprojResolveAssemblyReference.cache
+C:\Users\Vihz\Desktop\VIVA Final\NewDB2.05Viva\Billing\Billing\obj\Debug\Billing.UI.AboutUs.resources
+C:\Users\Vihz\Desktop\VIVA Final\NewDB2.05Viva\Billing\Billing\obj\Debug\Billing.UI.rfmAdminDashboard.resources
+C:\Users\Vihz\Desktop\VIVA Final\NewDB2.05Viva\Billing\Billing\obj\Debug\Billing.UI.Alert.resources
+C:\Users\Vihz\Desktop\VIVA Final\NewDB2.05Viva\Billing\Billing\obj\Debug\Billing.UI.frmCategories.resources
+C:\Users\Vihz\Desktop\VIVA Final\NewDB2.05Viva\Billing\Billing\obj\Debug\Billing.UI.frmDlr_Cstmr.resources
+C:\Users\Vihz\Desktop\VIVA Final\NewDB2.05Viva\Billing\Billing\obj\Debug\Billing.UI.frmInventory.resources
+C:\Users\Vihz\Desktop\VIVA Final\NewDB2.05Viva\Billing\Billing\obj\Debug\Billing.UI.frmLogin.resources
+C:\Users\Vihz\Desktop\VIVA Final\NewDB2.05Viva\Billing\Billing\obj\Debug\Billing.UI.frmProducts.resources
+C:\Users\Vihz\Desktop\VIVA Final\NewDB2.05Viva\Billing\Billing\obj\Debug\Billing.UI.frmPurchaseAndSales.resources
+C:\Users\Vihz\Desktop\VIVA Final\NewDB2.05Viva\Billing\Billing\obj\Debug\Billing.UI.frmStKeeperDashboard.resources
+C:\Users\Vihz\Desktop\VIVA Final\NewDB2.05Viva\Billing\Billing\obj\Debug\Billing.UI.frmTransactions.resources
+C:\Users\Vihz\Desktop\VIVA Final\NewDB2.05Viva\Billing\Billing\obj\Debug\Billing.frmUserDashboard.resources
+C:\Users\Vihz\Desktop\VIVA Final\NewDB2.05Viva\Billing\Billing\obj\Debug\Billing.UI.frmUsers.resources
+C:\Users\Vihz\Desktop\VIVA Final\NewDB2.05Viva\Billing\Billing\obj\Debug\Billing.UI.MassageBox.resources
+C:\Users\Vihz\Desktop\VIVA Final\NewDB2.05Viva\Billing\Billing\obj\Debug\Billing.Properties.Resources.resources
+C:\Users\Vihz\Desktop\VIVA Final\NewDB2.05Viva\Billing\Billing\obj\Debug\Billing.UI.PReturn.resources
+C:\Users\Vihz\Desktop\VIVA Final\NewDB2.05Viva\Billing\Billing\obj\Debug\Billing.csproj.GenerateResource.Cache
+D:\Education\2nd Year\Pro New DB\VIVA Final\NewDB2.05Viva\Billing\Billing\bin\Debug\Billing.exe.config
+D:\Education\2nd Year\Pro New DB\VIVA Final\NewDB2.05Viva\Billing\Billing\obj\Debug\Billing.exe
+D:\Education\2nd Year\Pro New DB\VIVA Final\NewDB2.05Viva\Billing\Billing\obj\Debug\Billing.pdb
+D:\Education\2nd Year\Pro New DB\VIVA Final\NewDB2.05Viva\Billing\Billing\bin\Debug\STK.mdf
+D:\Education\2nd Year\Pro New DB\VIVA Final\NewDB2.05Viva\Billing\Billing\bin\Debug\STK_log.ldf
+D:\Education\2nd Year\Pro New DB\VIVA Final\NewDB2.05Viva\Billing\Billing\bin\Debug\Billing.exe
+D:\Education\2nd Year\Pro New DB\VIVA Final\NewDB2.05Viva\Billing\Billing\bin\Debug\Billing.pdb
+D:\Education\2nd Year\Pro New DB\VIVA Final\NewDB2.05Viva\Billing\Billing\obj\Debug\Billing.csprojResolveAssemblyReference.cache
+D:\Education\2nd Year\Pro New DB\VIVA Final\NewDB2.05Viva\Billing\Billing\obj\Debug\Billing.UI.AboutUs.resources
+D:\Education\2nd Year\Pro New DB\VIVA Final\NewDB2.05Viva\Billing\Billing\obj\Debug\Billing.UI.rfmAdminDashboard.resources
+D:\Education\2nd Year\Pro New DB\VIVA Final\NewDB2.05Viva\Billing\Billing\obj\Debug\Billing.UI.Alert.resources
+D:\Education\2nd Year\Pro New DB\VIVA Final\NewDB2.05Viva\Billing\Billing\obj\Debug\Billing.UI.frmCategories.resources
+D:\Education\2nd Year\Pro New DB\VIVA Final\NewDB2.05Viva\Billing\Billing\obj\Debug\Billing.UI.frmDlr_Cstmr.resources
+D:\Education\2nd Year\Pro New DB\VIVA Final\NewDB2.05Viva\Billing\Billing\obj\Debug\Billing.UI.frmInventory.resources
+D:\Education\2nd Year\Pro New DB\VIVA Final\NewDB2.05Viva\Billing\Billing\obj\Debug\Billing.UI.frmLogin.resources
+D:\Education\2nd Year\Pro New DB\VIVA Final\NewDB2.05Viva\Billing\Billing\obj\Debug\Billing.UI.frmProducts.resources
+D:\Education\2nd Year\Pro New DB\VIVA Final\NewDB2.05Viva\Billing\Billing\obj\Debug\Billing.UI.frmPurchaseAndSales.resources
+D:\Education\2nd Year\Pro New DB\VIVA Final\NewDB2.05Viva\Billing\Billing\obj\Debug\Billing.UI.frmStKeeperDashboard.resources
+D:\Education\2nd Year\Pro New DB\VIVA Final\NewDB2.05Viva\Billing\Billing\obj\Debug\Billing.UI.frmTransactions.resources
+D:\Education\2nd Year\Pro New DB\VIVA Final\NewDB2.05Viva\Billing\Billing\obj\Debug\Billing.frmUserDashboard.resources
+D:\Education\2nd Year\Pro New DB\VIVA Final\NewDB2.05Viva\Billing\Billing\obj\Debug\Billing.UI.frmUsers.resources
+D:\Education\2nd Year\Pro New DB\VIVA Final\NewDB2.05Viva\Billing\Billing\obj\Debug\Billing.UI.MassageBox.resources
+D:\Education\2nd Year\Pro New DB\VIVA Final\NewDB2.05Viva\Billing\Billing\obj\Debug\Billing.Properties.Resources.resources
+D:\Education\2nd Year\Pro New DB\VIVA Final\NewDB2.05Viva\Billing\Billing\obj\Debug\Billing.UI.PReturn.resources
+D:\Education\2nd Year\Pro New DB\VIVA Final\NewDB2.05Viva\Billing\Billing\obj\Debug\Billing.csproj.GenerateResource.Cache
