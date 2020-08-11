@@ -19,5 +19,6 @@ namespace Billing.BLL
         public string user_type { get; set; }
         public DateTime added_date { get; set; }
         public string added_by { get; set; }
+		 public string added_of { get; set; }
     }
 }
